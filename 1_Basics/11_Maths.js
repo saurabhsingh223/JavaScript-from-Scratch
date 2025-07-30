@@ -1,0 +1,10 @@
+console.log(Math);
+console.log(Math.abs(-11));
+console.log(Math.round(53.234));
+console.log(Math.ceil(53.234));
+console.log(Math.sqrt(16));
+console.log(Math.pow(2,4));
+console.log(Math.min(2,3));
+console.log(Math.max(23,45));
+console.log(Math.random());
+// console.log(Math);
